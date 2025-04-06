@@ -31,6 +31,7 @@ Este es un proyecto de tienda online donde se comercializan **gorras, camisetas,
 
 
 ## forma de la información
+```json
 {
   "id": 1,
   "name": "Gorra Negra",
